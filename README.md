@@ -1,6 +1,9 @@
 # Site exemplo
 IMPORTANTE: ESTE MODELO NÃO CONTEM OS FILMES E SÉRIES EM QUESTÃO, APENAS AS FOTOS
 
+Fiz esse site para um projeto final da disciplina de web na escola.
+
+
 Atenção:
 Para que o projeto funcione é preciso um banco de dados, caso contrario, não será possível fazer login.
 Para isso, siga as instruções a seguir:
